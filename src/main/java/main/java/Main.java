@@ -1,6 +1,7 @@
 package main.java;
 import java.util.*;
 
+//main class
 public class Main {
 
     private static int rows1=0,rows2=0;
